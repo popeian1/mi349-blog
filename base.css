@@ -18,6 +18,7 @@
     background-color: lightgray;
     margin-right: 25%;
     margin-left: 25%;
+    margin-bottom: 30px;
     border-radius: 5%;
     font-family: 'Alan Sans';
 }
@@ -29,7 +30,6 @@
 
 h2 {
     margin-top: 10px;
-    margin-bottom: 0px;
 }
 
 h3 {
