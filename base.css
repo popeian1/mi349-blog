@@ -3,10 +3,6 @@
     src: url("./fonts/AlanSans-VariableFont_wght.ttf") format("truetype");
 }
 
-.body {
-    font-family: 'Alan Sans';
-}
-
 .headings {
     margin-left: 15px;
 }
@@ -23,10 +19,12 @@
     margin-right: 25%;
     margin-left: 25%;
     border-radius: 5%;
+    font-family: 'Alan Sans';
 }
 
 #pagetitle {
     text-align: center;
+    font-family: 'Alan Sans';
 }
 
 h2 {
