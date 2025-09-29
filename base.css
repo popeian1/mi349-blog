@@ -1,7 +1,44 @@
-p {}
+@font-face {
+    font-family: 'Alan Sans';
+    src: url("./fonts/Alan-Sans-Regular.ttf") format("truetype");
+}
 
-body {}
+.headings {
+    margin-left: 15px;
+}
+        
+.paragraph {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
 
-h1 {}
+.entry {
+    border: 5px solid gray;
+    background-color: lightgray;
+    margin-right: 15%;
+    margin-left: 15%;
+    border-radius: 5%;
+}
 
-h2{}
+#pagetitle {
+    text-align: center;
+    font-family: 'Alan Sans';
+}
+
+h2 {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+h3 {
+    margin-top: 5px;
+    margin-left: 5%;
+    font-style: italic;
+    font-size: 16px;
+}
+
+#username {
+    float: right;
+    margin-right: 9%;
+}
