@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Alan Sans';
+    src: url("/workspaces/mi349-blog/pages/fonts/AlanSans-VariableFont_wght.ttf") format("truetype");
+}
+
+#pagetitle {
+    text-align: center;
+    font-family: 'Alan Sans';
+}
