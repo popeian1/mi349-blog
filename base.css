@@ -56,11 +56,14 @@ label {
     margin-top: 10px;
 }
 
+input {
+    margin-top: 10px;
+}
+
 .fheading {
     font-family: 'Alan Sans';
     font-size: 20px;
     font-weight: bold;
-    margin-bottom: 10px;
 }
 
 .button {
