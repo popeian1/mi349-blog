@@ -22,6 +22,11 @@ a:hover {
     text-decoration: underline;
 }
 
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
 #links {
     float: right;
     font-family: 'Alan Sans';
