@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Alan Sans';
-    src: url("/pages/fonts/AlanSans-VariableFont_wght.ttf") format("truetype");
+    src: url("./AlanSans-VariableFont_wght.ttf") format("truetype");
 }
 
 .headings {
