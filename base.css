@@ -28,6 +28,8 @@ a:visited {
 }
 
 #links {
+    margin-right: 15px;
+    margin-top: 10px;
     float: right;
     font-family: 'Alan Sans';
     font-size: 20px;
