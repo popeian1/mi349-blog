@@ -18,6 +18,10 @@ a:link {
     color: black;
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
 #links {
     float: right;
     font-family: 'Alan Sans';
