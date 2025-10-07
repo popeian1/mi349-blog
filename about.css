@@ -18,12 +18,6 @@ img {
     float: left;
 }
 
-#contents {
-    font-family: 'Alan Sans';
-    margin-left: 50%;
-    margin-right: 15%;
-}
-
 #groupedbox {
     border: 5px solid gray;
     background-color: lightgray;
