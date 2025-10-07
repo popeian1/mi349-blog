@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Alan Sans';
+    src: url("./AlanSans-VariableFont_wght.ttf") format("truetype");
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+#links {
+    margin-right: 15px;
+    margin-top: 10px;
+    float: right;
+    font-family: 'Alan Sans';
+    font-size: 20px;
+}
+
+#pagetitle {
+    text-align: center;
+    font-family: 'Alan Sans';
+    size: 32px;
+}
+
+#groupedbox {
+    border: 5px solid gray;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10%;
+    margin-right: 25%;
+    margin-left: 25%;
+}
