@@ -25,10 +25,10 @@ img {
 }
 
 #groupedbox {
-    align-items: center;
     border: 5px solid gray;
     background-color: lightgray;
     border-radius: 5%;
     font-family: 'Alan Sans';
     margin-right: 25%;
+    margin-left: 25%;
 }
