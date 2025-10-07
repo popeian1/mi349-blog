@@ -25,6 +25,7 @@ img {
 }
 
 #groupedbox {
+    align-items: center;
     border: 5px solid gray;
     background-color: lightgray;
     border-radius: 5%;
