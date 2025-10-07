@@ -9,6 +9,12 @@
     size: 32px;
 }
 
+image {
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+
 #contents {
     float: right;
 }
