@@ -107,6 +107,8 @@ input {
     margin-right: 9%;
 }
 
+
+
 #groupedbox {
     border: 5px solid gray;
     background-color: lightgray;
@@ -115,4 +117,14 @@ input {
     font-family: 'Alan Sans';
     margin-right: 15%;
     margin-left: 15%;
+}
+
+#profimg {
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: 50px;
+    max-width: 250px;
+    max-height: 250px;
+    border-radius: 50%;
+    float: left;
 }
