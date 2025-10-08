@@ -135,8 +135,8 @@ label {
 input {
     margin-bottom: 10px;
     font-family: "Alan Sans";
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 50%;
+    margin-right: 50%;
 }
 
 option {
