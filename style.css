@@ -107,8 +107,6 @@ input {
     margin-right: 9%;
 }
 
-
-
 #groupedbox {
     border: 5px solid gray;
     background-color: lightgray;
@@ -127,4 +125,9 @@ input {
     max-height: 250px;
     border-radius: 50%;
     float: left;
+}
+
+label {
+    margin-bottom: 0px;
+    text-align:left;
 }
