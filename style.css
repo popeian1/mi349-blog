@@ -132,9 +132,15 @@ label {
 }
 
 input[type=text] {
-  width: 25%;
-  padding: 12px;
-  margin: 10px 10px;
+    width: 25%;
+    padding: 12px;
+    margin: 10px 10px;
+    font-family: "Alan Sans";
+}
+
+input[type=submit] {
+    padding: 5px;
+    font-family: "Alan Sans";
 }
 
 option {
