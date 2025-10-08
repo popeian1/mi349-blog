@@ -128,14 +128,14 @@ input {
 }
 
 label {
-    margin-top: 50px;
-    margin-bottom: 0px;
     font-family: "Alan Sans";
 }
 
-input {
-    margin-bottom: 10px;
-    font-family: "Alan Sans";
+input[type=text] {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  box-sizing: border-box;
 }
 
 option {
