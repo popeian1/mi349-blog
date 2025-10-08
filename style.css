@@ -135,7 +135,6 @@ input[type=text] {
   width: 25%;
   padding: 12px;
   margin: 10px 0;
-  box-sizing: border-box;
 }
 
 option {
