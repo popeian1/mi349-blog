@@ -146,4 +146,5 @@ input[type=submit] {
 option {
     font-family: "Alan Sans";
     padding-bottom: 20px;
+    margin: 10px 10px;
 }
