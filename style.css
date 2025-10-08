@@ -106,3 +106,13 @@ input {
     float: right;
     margin-right: 9%;
 }
+
+#groupedbox {
+    border: 5px solid gray;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10%;
+    font-family: 'Alan Sans';
+    margin-right: 15%;
+    margin-left: 15%;
+}
