@@ -130,8 +130,14 @@ input {
 label {
     margin-bottom: 0px;
     text-align:left;
+    font-family: "Alan Sans";
 }
 
 input {
     margin-bottom: 10px;
+    font-family: "Alan Sans";
+}
+
+option {
+    font-family: "Alan Sans";
 }
