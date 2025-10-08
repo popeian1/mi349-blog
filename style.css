@@ -137,3 +137,10 @@ input[type=text], input[type=submit], textarea, select {
     margin: 10px 10px;
     font-family: "Alan Sans";
 }
+
+input[type=submit] {
+    width: auto;
+    padding: 12px;
+    margin: 10px 10px;
+    font-family: "Alan Sans";
+}
