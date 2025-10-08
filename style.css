@@ -131,7 +131,7 @@ label {
     font-family: "Alan Sans";
 }
 
-input[type=text] {
+input[type=text], input[type=textarea] {
     width: 25%;
     padding: 12px;
     margin: 10px 10px;
