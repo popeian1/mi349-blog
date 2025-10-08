@@ -131,3 +131,7 @@ label {
     margin-bottom: 0px;
     text-align:left;
 }
+
+input {
+    margin-bottom: 10px;
+}
