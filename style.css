@@ -131,20 +131,9 @@ label {
     font-family: "Alan Sans";
 }
 
-input[type=text], textarea, select {
+input[type=text], input[type=submit], textarea, select {
     width: 25%;
     padding: 12px;
     margin: 10px 10px;
     font-family: "Alan Sans";
-}
-
-input[type=submit] {
-    padding: 5px;
-    font-family: "Alan Sans";
-}
-
-option {
-    font-family: "Alan Sans";
-    padding-bottom: 20px;
-    margin: 10px 10px;
 }
