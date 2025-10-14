@@ -34,6 +34,7 @@ a:visited {
     font-family: 'Alan Sans';
     font-size: 20px;
     position: sticky;
+    top: 0;
     background: lightgray
 }
 
