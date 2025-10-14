@@ -4,12 +4,10 @@
 }
 
 h1 {
-    display: inline;
     font-family: 'Alan Sans';
 }
         
 p {
-    display: inline;
     font-family: 'Alan Sans';
     text-align: center;
     margin-left: 10%;
@@ -31,7 +29,6 @@ a:visited {
 }
 
 #links {
-    display: inline;
     margin-right: 15px;
     margin-top: 10px;
     float: right;
