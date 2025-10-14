@@ -50,7 +50,8 @@ a:visited {
     font-family: 'Alan Sans';
 }
 
-#pagetitle {
+.pagetitle {
+    margin: auto;
     text-align: center;
     font-family: 'Alan Sans';
 }
