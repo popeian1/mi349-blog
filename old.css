@@ -1,0 +1,169 @@
+@font-face {
+    font-family: 'Alan Sans';
+    src: url("./AlanSans-VariableFont_wght.ttf") format("truetype");
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Alan Sans';
+}
+        
+p {
+    font-family: 'Alan Sans';
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+#links {
+    margin-right: 15px;
+    margin-top: 10px;
+    padding: 15px;
+    float: right;
+    font-family: 'Alan Sans';
+    font-size: 20px;
+    position: sticky;
+    top: 0;
+    background: lightgray
+}
+
+.entry {
+    border: 5px solid gray;
+    background-color: lightgray;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-bottom: 30px;
+    border-radius: 5%;
+    font-family: 'Alan Sans';
+}
+
+.pagetitle {
+    margin: auto;
+    text-align: center;
+    font-family: 'Alan Sans';
+}
+
+h2 {
+    margin-top: 10px;
+    margin: auto;
+}
+
+h3 {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-style: italic;
+    font-size: 16px;
+}
+
+table, th, td {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 2px solid gray;
+    margin-bottom: 20px;
+}
+
+form {
+    text-align: center;
+}
+
+label {
+    font-family: 'Alan Sans';
+    margin-top: 10px;
+}
+
+input {
+    margin-top: 10px;
+}
+
+.fheading {
+    font-family: 'Alan Sans';
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.button {
+    font-family: 'Alan Sans';
+    margin-top: 10px;
+}
+
+.blogimg {
+    max-width: 90%;
+    max-height: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+#username {
+    float: right;
+    margin-right: 9%;
+}
+
+#groupedbox {
+    border: 5px solid gray;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10%;
+    font-family: 'Alan Sans';
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+#groupedboxsmall {
+    border: 5px solid gray;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10%;
+    font-family: 'Alan Sans';
+    margin-right: 35%;
+    margin-left: 35%;
+}
+
+#profimg {
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: 50px;
+    max-width: 250px;
+    max-height: 250px;
+    border-radius: 50%;
+    float: left;
+}
+
+label {
+    font-family: "Alan Sans";
+}
+
+input[type=text], textarea, select {
+    width: 50%;
+    padding: 12px;
+    margin: 10px 10px;
+    font-family: "Alan Sans";
+}
+
+input[type=submit] {
+    width: auto;
+    padding: 12px;
+    margin: 10px 10px;
+    font-family: "Alan Sans";
+}
+
+#emailbox {
+    margin-right: 40%;
+    margin-left: 40%;
+}
