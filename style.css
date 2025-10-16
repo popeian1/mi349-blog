@@ -51,6 +51,11 @@ h3 {
     margin: 0px 0px 0px 0px;
 }
 
+h4 {
+    display: inline;
+    margin: 0px 0px 0px 0px;
+}
+
 input, textarea, select {
     margin-right: auto;
     margin-left: auto;
