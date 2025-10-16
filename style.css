@@ -47,6 +47,18 @@ h3 {
     margin: 0px 0px 0px 0px;
 }
 
+input {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+label {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
 p {
     font-weight: 450;
     margin-top: 50px;
