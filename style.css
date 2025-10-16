@@ -112,4 +112,5 @@ table, th, td {
 
 #stickymover {
     position: sticky;
+    top: 0;
 }
