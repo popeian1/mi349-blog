@@ -99,6 +99,23 @@ table, th, td {
     margin: 0px 0px 0px 0px;
 }
 
+#aboutbox {
+    background-color: #f59565;
+    padding: 20px;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+#aboutimg {
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: 50px;
+    max-width: 250px;
+    max-height: 250px;
+    border-radius: 50%;
+    float: left;
+}
+
 #links {
     background-color: #f59565;
     color: #395166;
