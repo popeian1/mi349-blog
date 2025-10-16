@@ -116,6 +116,11 @@ table, th, td {
     border-radius: 50%;
 }
 
+#abouttext {
+    text-align: center;
+    color: #202d39;
+}
+
 #links {
     background-color: #f59565;
     color: #395166;
