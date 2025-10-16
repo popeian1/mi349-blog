@@ -54,8 +54,8 @@ input {
 }
 
 label {
-    margin-right: auto;
-    margin-left: auto;
+    color: #ffffff;
+    text-align: center;
     display: block;
 }
 
