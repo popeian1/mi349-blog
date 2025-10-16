@@ -64,7 +64,7 @@ table, th, td {
     max-width: 90%;
     max-height: 90%;
     display: block;
-    margin-left: auto;
+    margin: 0 auto 0 auto;
     margin-right: auto;
     margin-bottom: 20px;
 }
