@@ -106,5 +106,6 @@ table, th, td {
     font-weight: 500;
     height: 40px;
     padding: 10px 15px 0px 0px;
+    position: sticky;
     text-align: right;
 }
