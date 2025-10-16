@@ -53,6 +53,14 @@ p {
     text-align: center;
 }
 
+table, th, td {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 2px solid #395166;
+    margin-bottom: 20px;
+}
+
 .blogimg {
     max-width: 90%;
     max-height: 90%;
