@@ -76,6 +76,7 @@ table, th, td {
 .divider {
     background-color: #ffffff;
     height: 10px;
+    margin: 0px 0px 0px 0px;
 }
 
 .entry {
