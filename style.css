@@ -115,6 +115,7 @@ table, th, td {
 }
 
 #abouttext {
+    float: right;
     text-align: left;
 }
 
