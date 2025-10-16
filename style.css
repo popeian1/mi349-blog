@@ -116,6 +116,10 @@ table, th, td {
     float: left;
 }
 
+#abouttext {
+    text-align: left;
+}
+
 #links {
     background-color: #f59565;
     color: #395166;
