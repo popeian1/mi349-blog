@@ -73,6 +73,10 @@ p {
     padding: 1px 20px 20px 20px;
 }
 
+.headings {
+    margin: 0px 0px 20px 20px;
+}
+
 .name {
     float: right;
 }
