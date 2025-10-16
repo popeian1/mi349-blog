@@ -118,6 +118,8 @@ table, th, td {
     clear: both;
     font-style: italic;
     margin: 0px 0px 0px 0px;
+    display: flex;
+    flex-direction: row;
 }
 
 #aboutbox {
