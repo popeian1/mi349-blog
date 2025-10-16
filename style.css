@@ -43,6 +43,7 @@ h3 {
 
 p {
     font-weight: 450;
+    margin: 50px 0px 0px 0px;
     text-align: center;
 }
 
@@ -69,11 +70,6 @@ p {
     color: #202d39;
     margin: 25px 25% 100px 25%;
     padding: 1px 20px 20px 20px;
-}
-
-.headingsep {
-    height: 10px;
-    margin-top: 30px;
 }
 
 .name {
