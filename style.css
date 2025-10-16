@@ -101,6 +101,7 @@ table, th, td {
 
 #aboutbox {
     background-color: #f59565;
+    clear: both;
     padding: 20px;
     margin-right: 15%;
     margin-left: 15%;
