@@ -57,6 +57,10 @@ input {
     display: block;
 }
 
+input[type=submit] {
+    margin-bottom: 50px;
+}
+
 label {
     color: #ffffff;
     text-align: center;
