@@ -6,3 +6,12 @@
 * {
     font-family: 'Alan Sans';
 }
+
+h1 {
+    text-align: center; 
+}
+
+.links {
+    background-color: lightgray;
+    height: 250px;
+}
