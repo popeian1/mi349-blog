@@ -55,6 +55,7 @@ p {
 
 table, th, td {
     text-align: center;
+    margin: 5% 0 5% 0;
     border: 2px solid #202d39;
     margin-bottom: 20px;
 }
