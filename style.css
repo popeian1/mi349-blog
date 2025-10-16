@@ -107,7 +107,7 @@ table, th, td {
 }
 
 #aboutimg {
-    margin: auto auto auto 50px;
+    margin: auto auto auto auto;
     max-width: 250px;
     max-height: 250px;
     border-radius: 50%;
