@@ -91,7 +91,7 @@ table, th, td {
 }
 
 .date {
-    float: left;
+    text-align: left;
 }
 
 .divider {
@@ -111,7 +111,7 @@ table, th, td {
 }
 
 .name {
-    float: right;
+    text-align: right;
 }
 
 .timendate{
