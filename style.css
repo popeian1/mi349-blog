@@ -51,7 +51,7 @@ h3 {
     margin: 0px 0px 0px 0px;
 }
 
-input {
+input, textarea, select {
     margin-right: auto;
     margin-left: auto;
     display: block;
