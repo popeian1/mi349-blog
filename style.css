@@ -76,7 +76,6 @@ table, th, td {
 .divider {
     background-color: #ffffff;
     height: 10px;
-    margin: 0px 0px 0px 0px;
 }
 
 .entry {
@@ -109,4 +108,8 @@ table, th, td {
     padding: 10px 15px 0px 0px;
     position: sticky;
     text-align: right;
+}
+
+#stickymover {
+    position: sticky;
 }
