@@ -7,23 +7,45 @@
     font-family: 'Alan Sans';
 }
 
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
 body {
     background-color: #395166;
     margin: 0px 0px 0px 0px;
 }
 
 h1 {
-    background-color: rgb(255, 255, 255);
+    
     margin: 0px 0px 0px 0px;
     padding: 5px 0px 5px 0px;
     text-align: center; 
 }
 
+.divider {
+    background-color: #ffffff;
+    height: 10px;
+}
+
+.entry {
+    background-color: #f87642;
+    margin: 0px 0px 0px 0px;
+}
+
 #links {
     background-color: rgb(245, 171, 135);
-    height: 50px;
-    margin-top: 0px;
-    padding-right: 15px;
-    padding-top: 50px;
+    color: #395166 !important;
+    font-size: 20px;
+    height: 40px;
+    padding: 10px 15px 0px 0px;
     text-align: right;
 }
