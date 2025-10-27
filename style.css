@@ -183,9 +183,10 @@ table, th, td {
     
     p {
     font-size: 12px;
-    font-weight: 450;
-    margin-top: 50px;
-    text-align: center;
+    }
+
+    ul {
+        font-size: 12px;
     }
 
     .entry {
