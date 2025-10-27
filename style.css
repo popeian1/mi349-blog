@@ -217,4 +217,8 @@ table, th, td {
     table, th, td {
         font-size: 8px;
     }
+
+    #links {
+        font-size: 4px;
+    }
 }
