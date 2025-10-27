@@ -187,6 +187,7 @@ table, th, td {
 
     table, th, td {
         font-size: 12px;
+        margin: 0 0 0 0;
     }
 
     ul {
