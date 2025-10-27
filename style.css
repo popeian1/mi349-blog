@@ -169,6 +169,10 @@ table, th, td {
 }
 
 @media (max-width: 480px) {
+    h3 {
+        font-size: 14px;
+    }
+    
     p {
     font-size: 12px;
     font-weight: 450;
