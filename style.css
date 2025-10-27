@@ -93,6 +93,7 @@ table, th, td {
     margin: 0 auto 0 auto;
     margin-right: auto;
     margin-bottom: 20px;
+    width: 100%;
 }
 
 .date {
@@ -141,6 +142,7 @@ table, th, td {
     max-width: 250px;
     max-height: 250px;
     border-radius: 50%;
+    width: 100%;
 }
 
 #abouttext {
