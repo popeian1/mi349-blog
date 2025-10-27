@@ -3,19 +3,6 @@
     src: url("./AlanSans-VariableFont_wght.ttf") format("truetype");
 }
 
-@media (max-width: 480px) {
-    p {
-    font-size: 8px;
-    font-weight: 450;
-    margin-top: 50px;
-    text-align: center;
-    }
-
-    .entry {
-        margin: 25px 10% 100px 10%;
-    }
-}
-
 * {
     font-family: 'Alan Sans';
 }
@@ -179,4 +166,17 @@ table, th, td {
 #stickymover {
     position: sticky;
     top: 0;
+}
+
+@media (max-width: 480px) {
+    p {
+    font-size: 8px;
+    font-weight: 450;
+    margin-top: 50px;
+    text-align: center;
+    }
+
+    .entry {
+        margin: 25px 10% 100px 10%;
+    }
 }
