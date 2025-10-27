@@ -192,6 +192,11 @@ table, th, td {
         margin: 25px 5% 100px 5%;
     }
 
+    #aboutbox {
+    margin-right: 5%;
+    margin-left: 5%;
+    }
+
     #links {
         font-size: 20px;
     }
