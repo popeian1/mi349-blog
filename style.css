@@ -170,7 +170,7 @@ table, th, td {
 
 @media (max-width: 480px) {
     p {
-    font-size: 8px;
+    font-size: 12px;
     font-weight: 450;
     margin-top: 50px;
     text-align: center;
