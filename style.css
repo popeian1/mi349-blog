@@ -10,6 +10,10 @@
     margin-top: 50px;
     text-align: center;
     }
+
+    .entry {
+        margin: 25px 10% 100px 10%;
+    }
 }
 
 * {
