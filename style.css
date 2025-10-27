@@ -191,4 +191,8 @@ table, th, td {
     .entry {
         margin: 25px 5% 100px 5%;
     }
+
+    #links {
+        font-size: 20px;
+    }
 }
